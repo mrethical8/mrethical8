@@ -14,9 +14,9 @@
 
 - 👯 I’m looking to collaborate on **open-source projects.**
 
-- 🤝 I’m looking for help with **full stack projects using Java, Spring Boot, And React. 🚀**
+- 🤝 I’m looking for help with **full stack projects using Java, Spring Boot, And Microservices. 🚀**
 
-- 💬 Ask me about **React, JS, MySQL AND JAVA.**
+- 💬 Ask me about **Microservices, Spring Boot, MySQL AND JAVA.**
 
 - 📫 How to reach me **mrethical8@gmail.com**
 
