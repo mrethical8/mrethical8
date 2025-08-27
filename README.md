@@ -6,13 +6,11 @@
 
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mrethical8&label=Profile%20views&color=0e75b6&style=flat" alt="mrethical8" />
-</p>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mrethical8&theme=aura" alt="mrethical8" />
+  <a href="https://github.com/lucthienphong1120/github-trophies">
+    <img src="https://github-trophies.vercel.app/?username=mrethical8&theme=juicyfresh" alt="mrethical8 GitHub Trophies" />
   </a>
 </p>
+
 
 - 🔭 I’m currently working on **cloud-based applications using Java and Spring Boot. 🚀**
 
