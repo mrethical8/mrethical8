@@ -5,9 +5,9 @@
 <h3 align="center">Full Stack Java Developer | Software Engineer</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrethical8&label=Profile%20views&color=0e75b6&style=flat" alt="mrethical8" /> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=mrethical8)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrethical8" alt="mrethical8" /></a> </p>
+https://github-profile-trophy.vercel.app/?username=mrethical8&theme=aura
 
 
 - 🔭 I’m currently working on **cloud-based applications using Java and Spring Boot. 🚀**
