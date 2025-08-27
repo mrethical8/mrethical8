@@ -4,13 +4,11 @@
 </div>
 <h3 align="center">Full Stack Java Developer | Software Engineer</h3>
 
-
-<p align="left">
+<p align="center">
   <a href="https://github.com/lucthienphong1120/github-trophies">
     <img src="https://github-trophies.vercel.app/?username=mrethical8&theme=juicyfresh" alt="mrethical8 GitHub Trophies" />
   </a>
 </p>
-
 
 - 🔭 I’m currently working on **cloud-based applications using Java and Spring Boot. 🚀**
 
