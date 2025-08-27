@@ -7,7 +7,7 @@
 
 <p align="left">
   <a href="https://github.com/lucthienphong1120/github-trophies">
-    <img src="https://github-trophies.vercel.app/?username=mrethical8&theme=juicyfresh&margin-w=15" alt="mrethical8 GitHub Trophies" />
+    <img src="https://github-trophies.vercel.app/?username=mrethical8&theme=juicyfresh" alt="mrethical8 GitHub Trophies" />
   </a>
 </p>
 
