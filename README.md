@@ -4,9 +4,6 @@
 </div>
 <h3 align="center">Full Stack Java Developer | Software Engineer</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mrethical8&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 - 🔭 I’m currently working on **cloud-based applications using Java and Spring Boot. 🚀**
 
 - 🌱 I’m currently learning **JAVA, Devops.**
